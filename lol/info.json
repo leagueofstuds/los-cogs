@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "William Humphreys-Cloutier",
+    "NAME" : "LoL",
+    "SHORT" : "Various commands for League of Legends",
+    "DESCRIPTION" : "This cog allows users to do various functions regarding games in League of Legends.",
+    "INSTALL_MSG" : "LOS LoL cog installed",
+    "DISABLED" : false
+}
