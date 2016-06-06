@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "William Humphreys-Cloutier",
+    "NAME" : "IGN",
+    "SHORT" : "Share your in IGN with your friends",
+    "DESCRIPTION" : "This cog allows users to share their own IGNs and others to query the IGNs.",
+    "INSTALL_MSG" : "LOS IGN cog installed",
+    "DISABLED" : false
+}
